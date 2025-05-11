@@ -1,0 +1,46 @@
+{
+    "assessment": {
+        "categoryBreakdown": [
+            {
+                "category": "Education (Bachelor's or equivalent experience)",
+                "score": 10
+            },
+            {
+                "category": "Software Development Experience (2 years)",
+                "score": 20
+            },
+            {
+                "category": "Experience with Data Structures/Algorithms (2 years)",
+                "score": 15
+            },
+            {
+                "category": "Full Stack Development Experience (2 years)",
+                "score": 20
+            },
+            {
+                "category": "Experience with Back-end Languages (Java, Python, GO, C++)",
+                "score": 5
+            },
+            {
+                "category": "Experience with Front-end Technologies (JavaScript, TypeScript, HTML, CSS)",
+                "score": 10
+            },
+            {
+                "category": "Performance and Systems Data Analysis (2 years)",
+                "score": 0
+            },
+            {
+                "category": "Debugging and Software Test Engineering Experience",
+                "score": 0
+            },
+            {
+                "category": "Experience Developing Accessible Technologies",
+                "score": 0
+            }
+        ],
+        "actionItems": "Improve",
+        "overallScore": 80,
+        "feedback": "Your resume showcases a solid background in software engineering with relevant experience in full-stack development and backend technologies. However, there are areas for improvement, particularly in demonstrating experience with data structures and algorithms, performance analysis, debugging, and accessible technologies. These are crucial for the role you're targeting at Google.",
+        "actionPlan": "Consider adding specific examples or projects that highlight your experience with data structures and algorithms, as well as any debugging or performance analysis work you've done. If you have experience with accessible technologies, be sure to include that as well."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "assessment": {
+        "categoryBreakdown": [
+            {
+                "category": "Education (Bachelor's or equivalent experience)",
+                "score": 10
+            },
+            {
+                "category": "Software Development Experience (2 years)",
+                "score": 20
+            },
+            {
+                "category": "Experience with Data Structures/Algorithms (2 years)",
+                "score": 15
+            },
+            {
+                "category": "Full Stack Development Experience (2 years)",
+                "score": 20
+            },
+            {
+                "category": "Experience with Back-end Languages (Java, Python, GO, C++)",
+                "score": 5
+            },
+            {
+                "category": "Experience with Front-end Technologies (JavaScript, TypeScript, HTML, CSS)",
+                "score": 10
+            },
+            {
+                "category": "Performance and Systems Data Analysis (2 years)",
+                "score": 3
+            },
+            {
+                "category": "Debugging and Software Test Engineering Experience",
+                "score": 3
+            },
+            {
+                "category": "Experience Developing Accessible Technologies",
+                "score": 0
+            }
+        ],
+        "actionItems": "Improve",
+        "overallScore": 76,
+        "feedback": "The resume demonstrates strong software development experience and full-stack capabilities, particularly with Node.js and TypeScript. However, it lacks specific mentions of experience with data structures and algorithms, as well as back-end languages like Java, Python, or Go. Additionally, there is no evidence of experience in performance analysis, debugging, or developing accessible technologies. These areas need to be addressed to align more closely with the job requirements.",
+        "actionPlan": "1. Include specific examples of work with data structures and algorithms. 2. Highlight any experience with Java, Python, or Go, even if it's minimal. 3. Add details about performance analysis and debugging experience. 4. If applicable, mention any work related to accessible technologies."
+    }
+}

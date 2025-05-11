@@ -27,8 +27,10 @@ export class ResumeController {
       }),
     }),
   )
-  public uploadResume(@UploadedFile() file: Express.Multer.File) {
+  public async uploadResume(@UploadedFile() file: Express.Multer.File) {
     console.log(file);
-    return { message: 'File uploaded successfully!', filePath: file.path };
+
+    return await this.resumeService.handleResume(file.path);
+    // return await this.resumeService.generateScorecard();
   }
 }
